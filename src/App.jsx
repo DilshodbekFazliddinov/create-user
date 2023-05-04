@@ -5,7 +5,7 @@ import "./App.css";
 import Navbar from "./components/navbar/Navbar";
 import Footer from "./components/footer/Footer";
 import UserList from "./components/userList/UserList";
-import NewUser from "./components/newUser/newUser";
+import NewUser from "./components/newUser/NewUser";
 
 function App() {
   const [users, setUsers] = useState([]);
