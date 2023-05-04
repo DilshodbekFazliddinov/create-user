@@ -110,6 +110,7 @@ function NewUser({ addUser }) {
                     }}
                     name="gender"
                     value="male"
+                    required
                   />
                 </label>
                 <label>
@@ -123,6 +124,7 @@ function NewUser({ addUser }) {
                     }}
                     name="gender"
                     value="female"
+                    required
                   />
                 </label>
               </div>
